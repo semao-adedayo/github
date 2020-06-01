@@ -1,0 +1,1 @@
+I am a student on slack trying to learn both front-end and C#
